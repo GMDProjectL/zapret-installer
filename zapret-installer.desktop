@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Zapret
+Categories=Utility;KDE;
+
+Icon=applications-internet
+Exec=zapret
+Terminal=true
